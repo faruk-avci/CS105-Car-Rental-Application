@@ -4,7 +4,7 @@ This project is part of the CS105 Introduction to Object Oriented Programming co
 
 ## Purpose
 
-The purpose of this project is to demonstrate proficiency in object-oriented programming concepts such as inheritance, polymorphism, encapsulation, and abstraction. Students are tasked with implementing the provided UML class diagram and adding necessary fields, methods, constructors, and functionality to the classes. The project aims to enhance students' understanding of object-oriented design principles and their ability to apply them in real-world software development scenarios.
+The purpose of this project is to demonstrate proficiency in object-oriented programming concepts such as inheritance, polymorphism, encapsulation, and abstraction. The project aims to enhance students' understanding of object-oriented design principles and their ability to apply them in real-world software development scenarios.
 
 ## Project Components
 
@@ -15,9 +15,8 @@ The purpose of this project is to demonstrate proficiency in object-oriented pro
 
 ## Usage
 
-1. Students are required to implement the provided UML class diagram by adding necessary fields, methods, constructors, and functionality to the classes.
-2. The project emphasizes the use of encapsulation, polymorphism, method overriding, and inheritance to achieve clean and maintainable code.
-3. Sample usage scenarios are provided to test the functionality of the implemented classes and methods.
+1. The project emphasizes the use of encapsulation, polymorphism, method overriding, and inheritance to achieve clean and maintainable code.
+2. Sample usage scenarios are provided to test the functionality of the implemented classes and methods.
 
 ## UML Class Diagram
 UML Class Diagram for the Car Rental Application can be found at ![UML Diagram](uml_diagram.pdf)
